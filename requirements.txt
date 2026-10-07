@@ -1,0 +1,16 @@
+
+Tu reporte también confirma que el objetivo es predecir la felicidad a partir de PIB, apoyo social, esperanza de vida, libertad, generosidad y corrupción. :chatgpt-content-reference{index="2"}
+
+---
+
+## requirements.txt
+
+Para tus archivos actuales, pon esto:
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+streamlit
